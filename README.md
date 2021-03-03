@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**EternalCodeFlare/EternalCodeFlare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Om !!
 
-Here are some ideas to get you started:
+***Glad you landed here!!***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Deep Learning, Machine Learning & Computer Vision Enthusiast.** **Deep Learning especially along with Computer Vision** fascinate me. **CNNs** are my favourite as you might already have guessed. 
+
+
+### About me: 
+
+- 🌱 I’m currently learning   :   **TensorFlow and Keras in detail**
+- 🔭 I’m currently working on   :   **Developing my skills to develop different ML models and CNN applications !!**
+- 👯 I’m looking to collaborate on   :   **Machine Learning and Deep Learning projects; better if related to Computer Vision !!**
+- ⚡ Fun fact  :   **Model's accuracy doesn't always influence its predictions!!**
