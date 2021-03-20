@@ -10,7 +10,7 @@
 ------------------
 
 ### About me: 
-
+* 
 - 🔭 I’m currently learning   :   **TensorFlow and Keras in detail**
 - 🌟 Favourite Machine Learning Area   :  **Computer Vision**
 - 👯 I’m looking to collaborate on   :   **Machine Learning and Deep Learning projects; better if related to Computer Vision !!**
