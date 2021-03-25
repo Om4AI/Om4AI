@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Om !!
+## I'm Om Mule!!
 
 ***Glad you landed here!!***
 
