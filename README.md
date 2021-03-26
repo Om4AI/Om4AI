@@ -18,8 +18,6 @@
 ------------------
 
 ## Technologies: 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  style="text-align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&border_radius=30px&align="center" />
-</a></div>
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
