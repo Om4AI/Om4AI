@@ -18,6 +18,6 @@
 ------------------
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&hide=javascript,html&theme=midnight-purple&)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&hide=javascript,html&theme=react&)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
