@@ -1,6 +1,5 @@
-### Hi there 👋
 
-## I'm Om !!
+<h1 align="center">  Hi there 👋, I'm Om !! </h1>
 
 ***Glad you landed here!!***
 
