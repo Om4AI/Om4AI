@@ -23,7 +23,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="" height="40" width="40">
         <img src="https://lh3.googleusercontent.com/-fl3i6EXvPYI/WMqEA7z2pBI/AAAAAAAABL0/gK71Eq_PplMWMjqlo--SPVK-StvT2B7FgCLcB/s0/365630.png" alt="" height="40" width="40">
         <img src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="" height="40" width="65">
-        <img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" alt="" height="40" width="50">
+        <img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" alt="" height="40" width="70">
         <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="" height="40" width="40">
         <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="" height="40" width="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="" height="40" width="37">
