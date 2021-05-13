@@ -46,3 +46,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om4AI&count_private=true&theme=vision-friendly-dark&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<p>
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/>
+  </a>
+</p>
