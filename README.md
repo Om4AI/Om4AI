@@ -52,3 +52,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/>
   </a>
 </p>
+
+
+
+<h2> Contact me: </h2>
+<h4>📫 Email:   dgr8om@gmail.com </h4>
