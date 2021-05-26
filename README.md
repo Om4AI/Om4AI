@@ -56,4 +56,4 @@
 
 
 <h2> Contact me: </h2>
-<h4>📫 Email:   dgr8om@gmail.com </h4>
+<h4>📫 Email:   **dgr8om@gmail.com** </h4>
