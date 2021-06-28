@@ -57,7 +57,7 @@
 ## Contact me: 
 
 📫 Email: **dgr8om@gmail.com**<br><br>
-<a href="www.linkedin.com/in/om-mule"><img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/om-mule/"><img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="" height="30" width="30"></a>
 <a href="https://www.hackerrank.com/iv_xii_om_"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="" height="40" width="40"></a>
 <a href="https://leetcode.com/EternalCodeFlare/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="" height="40" width="40"></a>
 
