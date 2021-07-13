@@ -57,7 +57,7 @@
 ------------------
 ## Contact with me: 
 
-📫 Email: **dgr8om@gmail.com**<br><br>
+📫 Email: **dgr8om@gmail.com**<br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/om-mule/" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="" height="30" width="30"></a> 
