@@ -28,7 +28,7 @@
         <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="" height="40" width="40">
         <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="" height="40" width="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="" height="40" width="37">
-        <img src="https://colab.research.google.com/img/colab_favicon.ico" alt="" height="40" width="40">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width= "50" height = "50" >
         <img src="https://www.baaer.eu/wp-content/uploads/2018/07/Slide1.jpg" height="40" width="70">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="" height="40" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" height="40" width="40">
