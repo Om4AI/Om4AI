@@ -40,11 +40,11 @@
 
 
 ------------------
-<p align="center">
+<p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&layout=compact&hide=javascript,html&theme=react&)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om4AI&count_private=true&theme=vision-friendly-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om4AI&count_private=true&theme=vision-friendly-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br>
