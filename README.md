@@ -4,17 +4,17 @@
 ### ***Glad you landed here!!***
 
 
-*I am a **Deep Learning, Machine Learning & Computer Vision Enthusiast.** **Deep Learning especially along with Computer Vision** fascinates me. **CNNs** are my favourite as you might already have guessed.*
+I am a ***Deep Learning, Machine Learning & Computer Vision Enthusiast.*** ***Deep Learning especially along with Computer Vision*** fascinates me. ***CNNs*** are my favourite as you might already have guessed.
 
-------------------
+
 
 ## About me: 
 - 🔭 I’m currently learning   :   **TensorFlow, Keras & Scikit-Learn (along with other technologies) in detail**
 - 🌟 Favourite Machine Learning Area   :  **Computer Vision**
 - 👯 I’m looking to collaborate on   :   **Machine Learning and Deep Learning projects !!**
-- ⚡ Fun fact  :   **Model's accuracy doesn't always define its predictions results ;) !!**
+- ⚡ Fun fact  :   **`Model's accuracy doesn't always define its predictions results ;) !!`**
 
-------------------
+
 ## Skills & Technologies:
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="" height="40" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="" height="40" width="40">
@@ -39,7 +39,7 @@
 </p>
 
 
-------------------
+
 <p align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&hide=javascript,html&theme=react&)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
@@ -50,9 +50,9 @@
 <br>
 <p align="left" >
   <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
-</p><br><br><br>
+</p><br><br>
 
-------------------
+
 ## Contact with me: 
 
 📫 Email: **dgr8om@gmail.com**<br>
