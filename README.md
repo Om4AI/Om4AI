@@ -49,7 +49,7 @@
 
 <br>
 <p>
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
+  <a><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
 </p>
 
 ------------------
