@@ -50,7 +50,7 @@
 <br>
 <p>
   <a><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
-</p>
+</p><br><br><br><br><br><br><br><br>
 
 ------------------
 ## Contact with me: 
