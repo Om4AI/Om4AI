@@ -48,9 +48,9 @@
 
 
 <br>
-<p>
-  <a><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
-</p><br><br><br><br><br><br><br><br>
+<p align="left" >
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
+</p>
 
 ------------------
 ## Contact with me: 
