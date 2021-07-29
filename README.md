@@ -11,7 +11,7 @@
 ## About me: 
 - 🔭 I’m currently learning   :   **TensorFlow, Keras & Scikit-Learn (along with other technologies) in detail**
 - 🌟 Favourite Machine Learning Area   :  **Computer Vision**
-- 👯 I’m looking to collaborate on   :   **Machine Learning and Deep Learning projects; better if related to Computer Vision !!**
+- 👯 I’m looking to collaborate on   :   **Machine Learning and Deep Learning projects !!**
 - ⚡ Fun fact  :   **Model's accuracy doesn't always define its predictions results ;) !!**
 
 ------------------
