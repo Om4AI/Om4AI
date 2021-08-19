@@ -4,7 +4,7 @@
 ### ***Glad you landed here!!***
 
 
-I am a ***Deep Learning, Machine Learning & Computer Vision Enthusiast.*** ***Deep Learning especially along with Computer Vision*** fascinates me. ***CNNs*** are my favourite as you might already have guessed.
+I am a ***Deep Learning, Machine Learning & Computer Vision Engineer.*** ***Deep Learning especially along with Computer Vision*** fascinates me. ***CNNs*** are my favourite as you might already have guessed.
 
 
 
