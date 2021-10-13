@@ -74,5 +74,3 @@ I am a ***Deep Learning, Machine Learning & Computer Vision Engineer.*** ***Deep
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=Om4AI&color=orange)
-
