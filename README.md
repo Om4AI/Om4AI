@@ -63,7 +63,6 @@ I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision E
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/om-mule/" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="" height="30" width="30"></a> 
 <a href="https://www.hackerrank.com/iv_xii_om_" target="blank"><img align="center" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" alt="" height="30" width="28"></a>
-<!-- <a href="https://leetcode.com/EternalCodeFlare/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="" height="30" width="30"></a> -->
 <!-- </p> -->
 
 <p align="left">
