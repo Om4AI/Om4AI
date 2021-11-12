@@ -43,15 +43,15 @@ I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision E
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&hide=javascript,html&theme=react&)](https://github.com/anuraghazra/github-readme-stats" />
-</p>
+</p> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om4AI&count_private=true&theme=vision-friendly-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br>
-<p align="left" >
+<p align="center" >
   <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
 </p><br><br>
 
