@@ -34,7 +34,9 @@ I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision E
         <img src="https://cdn-images-1.medium.com/max/1024/1*u9U3YjxT9c9A1FIaDMonHw.png" height="50", width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="" height="40" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" height="40" width="40">
+        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="40" width="40"/>
         <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="" height="35" width="45">
+        
         
 
 
