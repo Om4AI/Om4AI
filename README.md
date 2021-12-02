@@ -36,20 +36,20 @@ I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision E
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" height="40" width="40">
         <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="40" width="40"/>
         <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="" height="33" width="40">
-        
-        
-
-
-
 </p>
 
+<p align="center">AI & Deep Learning Stack</p>
+    <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="" height="40" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width= "40" height = "40" >
+        <img src="https://lh3.googleusercontent.com/-fl3i6EXvPYI/WMqEA7z2pBI/AAAAAAAABL0/gK71Eq_PplMWMjqlo--SPVK-StvT2B7FgCLcB/s0/365630.png" alt="" height="40" width="40">
+        
+    </p>
 
-
-<!-- <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om4AI&hide=javascript,html&theme=react&)](https://github.com/anuraghazra/github-readme-stats" />
-</p> -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om4AI&count_private=true&theme=vision-friendly-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br>
@@ -61,11 +61,6 @@ I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision E
 ## Contact with me: 
 
 📫 Email: **dgr8om@gmail.com**<br>
-
-<!-- <p align="left">
-<a href="https://www.linkedin.com/in/om-mule/" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="" height="30" width="30"></a> 
-<a href="https://www.hackerrank.com/iv_xii_om_" target="blank"><img align="center" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" alt="" height="30" width="28"></a>
-<!-- </p> -->
 
 <p align="left">
 <a href="https://www.linkedin.com/in/om-mule/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="" height="30" width="40"/></a>
