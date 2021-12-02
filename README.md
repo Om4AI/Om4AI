@@ -1,64 +1,65 @@
 
 <h1 align="center">  Hi there 👋, I'm Om !! </h1>
 
-
-### ***Glad you landed here!!***
-
-
-I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engineer.*** ***Deep Learning especially along with Computer Vision*** fascinates me. ***CNNs*** are my favourite as you might already have guessed. I like to play with Data Structures!
+<h4><p align="center">Glad you landed here!</p></h4>
 
 
 
-## About me: 
-- 🔭 I’m currently learning   :   **TensorFlow, Keras & Scikit-Learn (along with other technologies) in detail**
-- 🌟 Favourite Machine Learning Area   :  **Computer Vision**
-- 👯 I’m looking to collaborate on   :   **Machine Learning and Deep Learning projects !!**
-- ⚡ Fun fact  :   **`Model's accuracy doesn't always define its predictions results ;) !!`**
+I am a Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engineer. Deep Learning especially along with Computer Vision fascinates me. CNNs are my favourite as you might already have guessed. I like to play with Data Structures!
+
+<h3><p align="center"> Let's have a chat about Self-driving Cars,Deep Neural Networks,AR & VR.</p></h3>
+<br>                  
 
 
-## Skills & Technologies:
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="" height="40" width="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="" height="40" width="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" height="40" width="40">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="" height="40" width="40">
-        <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="" height="40" width="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="" height="40" width="40">
-        <img src="https://lh3.googleusercontent.com/-fl3i6EXvPYI/WMqEA7z2pBI/AAAAAAAABL0/gK71Eq_PplMWMjqlo--SPVK-StvT2B7FgCLcB/s0/365630.png" alt="" height="40" width="40">
-        <img src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="" height="40" width="65">
-        <img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" alt="" height="40" width="70">
-        <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="" height="40" width="40">
-        <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="" height="40" width="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="" height="40" width="37">
-        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width= "50" height = "50" >
-        <img src="https://www.baaer.eu/wp-content/uploads/2018/07/Slide1.jpg" height="40" width="70">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*u9U3YjxT9c9A1FIaDMonHw.png" height="50", width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="" height="40" width="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" height="40" width="40">
-        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="40" width="40"/>
-        <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="" height="33" width="40">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=What's+outside+the+simulation?&font=Fira%20Code&center=true&width=500&height=50">
 </p>
 
+<!-- ## Skills & Technologies: -->
+
+<p align="center">Programming Languages</p>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+</p>
+
+<br>
 <p align="center">AI & Deep Learning Stack</p>
     <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="" height="40" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40">
         <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width= "40" height = "40" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40">
         <img src="https://lh3.googleusercontent.com/-fl3i6EXvPYI/WMqEA7z2pBI/AAAAAAAABL0/gK71Eq_PplMWMjqlo--SPVK-StvT2B7FgCLcB/s0/365630.png" alt="" height="40" width="40">
-        
+        <img src="https://ml.globenewswire.com/Resource/Download/739a0114-4c0d-4a18-b85e-b53982324cbc" alt="" height="40" width="70">  
     </p>
 
-
-
 <br>
-<p align="center" >
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Om4AI&theme=dark&hide_border=true"/></a>
-</p><br><br>
+<p align="center">Cloud Platform</p>
+    <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40">
+    </p><br>
 
 
-## Contact with me: 
+
+
+![Om's github activity graph](https://activity-graph.herokuapp.com/graph?username=Om4AI&theme=react-dark)
+
+
+<br><br>
+
+
+<!-- ## Contact with me: 
 
 📫 Email: **dgr8om@gmail.com**<br>
 
@@ -67,6 +68,4 @@ I am a ***Competitive Coder, Deep Learning, Machine Learning & Computer Vision E
 <a href="https://www.codechef.com/users/om4ai" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="Om4AI" height="30" width="30" style="border-radius: 10px;"/></a>
 <a href="https://www.hackerrank.com/iv_xii_om_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Om" height="40" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/om_bhagwat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="om_bhagwat" height="30" width="40" /></a> -->
-</p>
-
-
+<!-- </p> -->
