@@ -15,6 +15,12 @@ I am a Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engi
   <img src="https://readme-typing-svg.herokuapp.com/?lines=What's+outside+the+simulation?&font=Fira%20Code&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+<a href="https://om4ai.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red"/></a>
+<a href="https://www.linkedin.com/in/om-mule/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://om4ai.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
 <!-- ## Skills & Technologies: -->
 
 <p align="center">Programming Languages</p>
