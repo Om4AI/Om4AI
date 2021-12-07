@@ -63,7 +63,7 @@ I am a Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engi
 ![Om's github activity graph](https://activity-graph.herokuapp.com/graph?username=Om4AI&theme=react-dark)
 
 
-<br><br>
+<!-- <br><br> -->
 
 
 <!-- ## Contact with me: 
