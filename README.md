@@ -7,7 +7,7 @@
 
 I am a Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engineer. Deep Learning especially along with Computer Vision fascinates me. CNNs are my favourite as you might already have guessed. I like to play with Data Structures!
 
-<h3><p align="center"> Let's have a chat about Data Structures,Self-driving Cars,Deep Neural Networks,AR & VR.</p></h3>
+<h3><p align="center"> Let's have a chat about Data Structures, Self-driving Cars, Deep Neural Networks, AR & VR.</p></h3>
 <br>                  
 
 
