@@ -1,5 +1,5 @@
 
-<h1 align="center">  Hi there 👋, I'm Om !! </h1>
+<h1 align="center">  Hi there 👋, I'm Om ! </h1>
 
 <h4><p align="center">Glad you landed here!</p></h4>
 
