@@ -60,7 +60,7 @@ I am a Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engi
 
 
 
-![Om's github activity graph](https://activity-graph.herokuapp.com/graph?username=Om4AI&theme=react-dark)
+[![Om's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Om4AI&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <br><br> -->
