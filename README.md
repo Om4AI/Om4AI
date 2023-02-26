@@ -64,3 +64,7 @@ I am a Competitive Coder, Deep Learning, Machine Learning & Computer Vision Engi
 
 
 <!-- <br><br> -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Om4AI/count.svg" />
+</p>
