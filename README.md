@@ -6,7 +6,7 @@
 <br><h4><p align="center">Glad you landed here!</p></h4>
 
 <p align="center">
-I am a Software Engineer who likes to play with Data Structures and different Software Development tools. Developing problem solving skills to think about all edge cases is important.
+I am a Software Engineer who likes to learn and improve in Data Structures and different Software Development tools. Developing problem solving skills to think about all edge cases is important.
 <br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my favourite as you might already have guessed. 
   </p></div>
 
