@@ -1,6 +1,6 @@
-
 <h1 align="center">  Hi there 👋, I'm Om ! </h1>
 
+![](https://github.com/Om4AI/Om4AI/blob/main/coder.gif)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="350px" width="300px" align="right">
 <div>
 <br><h4><p align="center">Glad you landed here!</p></h4>
