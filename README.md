@@ -26,7 +26,7 @@ I am a Software Engineer who likes to learn and improve in Data Structures and d
 
 <!-- ## Skills & Technologies: -->
 
-<p align="center">Programming Languages</p>
+<p align="center">Software Development Tech Stack</p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -38,6 +38,9 @@ I am a Software Engineer who likes to learn and improve in Data Structures and d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
 </p>
 
 <br>
@@ -52,7 +55,7 @@ I am a Software Engineer who likes to learn and improve in Data Structures and d
         <img src="https://lh3.googleusercontent.com/-fl3i6EXvPYI/WMqEA7z2pBI/AAAAAAAABL0/gK71Eq_PplMWMjqlo--SPVK-StvT2B7FgCLcB/s0/365630.png" alt="" height="40" width="40">
         <img src="https://ml.globenewswire.com/Resource/Download/739a0114-4c0d-4a18-b85e-b53982324cbc" alt="" height="40" width="70">  
     </p>
-
+  
 <br>
 <p align="center">Cloud Platform</p>
     <p align="center">
