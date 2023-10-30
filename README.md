@@ -9,8 +9,8 @@ I am a Software Engineer who likes to learn and improve in Data Structures and d
 <br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my favourite as you might already have guessed. 
   </p></div>
 
-<br><br><br><h3><p align="center"> Let's have a chat about Data Structures, Self-driving Cars, Deep Neural Networks, AR & VR.</p></h3>
-<br>                  
+<br><br><h3><p align="center"> Let's have a chat about Data Structures, Self-driving Cars, Deep Neural Networks, AR & VR.</p></h3>
+                
 
 
 <p align="center">
