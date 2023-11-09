@@ -3,7 +3,7 @@
 <img src="https://github.com/Om4AI/Om4AI/blob/main/coder.gif" min-width="380px" max-width="350px" width="290px" align="right">
 
 
-<br><div align="left"><p>
+<br><div align="center"><p>
 I am a Software Engineer who likes to learn and improve in Data Structures and different Software Development tools. Developing problem solving skills to think about all edge cases is important.
 <br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my <br>favourite as you might already have guessed. 
 </p></div>
