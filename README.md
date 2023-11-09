@@ -1,13 +1,12 @@
 <h1 align="center">  Hi there 👋, I'm Om ! </h1>
 
-<img src="https://github.com/Om4AI/Om4AI/blob/main/coder.gif" min-width="380px" max-width="350px" width="300px" align="right">
-<div>
-<br><h4><p align="center">Glad you landed here!</p></h4>
+<img src="https://github.com/Om4AI/Om4AI/blob/main/coder.gif" min-width="380px" max-width="350px" width="280px" align="right">
 
-<p align="center">
+
+<br><div align="left"><p>
 I am a Software Engineer who likes to learn and improve in Data Structures and different Software Development tools. Developing problem solving skills to think about all edge cases is important.
 <br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my favourite as you might already have guessed. 
-  </p></div>
+</p></div>
 
 <br><br><h3><p align="center"> Let's have a chat about Data Structures, Self-driving Cars, Deep Neural Networks, AR & VR.</p></h3>
                 
