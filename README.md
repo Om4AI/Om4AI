@@ -64,7 +64,7 @@ I am a Software Developer who likes to learn and explore AI and<br> data structu
 
 
 
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Om4AI&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Om4AI&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <br><br> -->
