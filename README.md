@@ -4,8 +4,8 @@
 
 
 <br><div align="left"><p>
-I am a Software Engineer who likes to learn and improve in Data Structures and<br> different Software Development tools. Developing problem solving skills to think<br> about all edge cases is important.
-<br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my <br>favourite as you might already have guessed. 
+I am a Software Engineer who likes to learn and explore Ai and<br> data structures. Developing problem solving skills to think<br> about all edge cases is important.
+<br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my <br>favourite. 
 </p></div>
 
 <br><br><h3><p align="center"> Let's have a chat about Data Structures, Self-driving Cars, Deep Neural Networks, AR & VR.</p></h3>
