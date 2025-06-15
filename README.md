@@ -64,7 +64,7 @@ I am a Software Engineer who likes to learn and improve in Data Structures and<b
 
 
 
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Om4AI&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Om4AI&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <br><br> -->
