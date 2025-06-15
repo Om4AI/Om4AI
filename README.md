@@ -4,7 +4,7 @@
 
 
 <br><div align="left"><p>
-I am a Software Engineer who likes to learn and explore Ai and<br> data structures. Developing problem solving skills to think<br> about all edge cases is important.
+I am a Software Developer who likes to learn and explore AI and<br> data structures. Developing problem solving skills to think<br> about all edge cases is important.
 <br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my <br>favourite. 
 </p></div>
 
