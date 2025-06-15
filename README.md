@@ -5,7 +5,7 @@
 
 <br><div align="left"><p>
 I am a Software Developer who likes to learn and explore AI and<br> data structures. Developing problem solving skills to think<br> about all edge cases is important.
-<br><br>Deep Learning especially along with Computer Vision fascinates me. CNNs are my <br>favourite. 
+<br><br>Deep Learning especially the Computer Vision domain fascinates me. CNNs are my <br>favourite. 
 </p></div>
 
 <br><br><h3><p align="center"> Let's have a chat about Data Structures, Self-driving Cars, Deep Neural Networks, AR & VR.</p></h3>
